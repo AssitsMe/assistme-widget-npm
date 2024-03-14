@@ -1,0 +1,16 @@
+{  
+  "name": "assistme-widget",  
+  "version": "1.0.0",  
+  "description": "Library to inject widjets into a website",  
+  "main": "embedded.js",  
+  "repository": {    
+    "type": "git",    
+    "url": "git+https://github.com/AssitsMe/assistme-widget-npm.git"  
+  },  
+  "author": "AssistMe",  
+  "license": "ISC",  
+  "bugs": {    
+    "url": "https://github.com/AssitsMe/assistme-widget-npm/issues"  
+  },  
+  "homepage": "https://github.com/AssitsMe/assistme-widget-npm#readme"
+}
