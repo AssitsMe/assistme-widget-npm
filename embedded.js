@@ -2,9 +2,10 @@
     "use strict";
     const l = "responsiveIframe",
         i = "100vw",
-        n = "38.5rem",
-        u = "35rem",
-        h = "38.5rem";
+        n = "800px",
+        u = "800px",
+        h = "800px";
+
 
     function m() {
         for (var s = document.getElementsByTagName("script"), o = null, r = 0; r < s.length; r++)
