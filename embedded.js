@@ -8,7 +8,7 @@
 
     function m() {
         for (var s = document.getElementsByTagName("script"), o = null, r = 0; r < s.length; r++)
-            if (s[r].src.includes("embeded-inject.js")) {
+            if (s[r].src.includes("embedded.js")) {
                 o = s[r];
                 break
             } if (!o) {
