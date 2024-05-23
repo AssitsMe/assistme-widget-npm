@@ -1,6 +1,6 @@
 {  
   "name": "assistme-widget",  
-  "version": "1.0.4",  
+  "version": "1.0.10",
   "description": "Library to inject widget into a website",  
   "main": "embedded.js",  
   "scripts": {
